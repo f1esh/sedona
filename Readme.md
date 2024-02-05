@@ -1,6 +1,6 @@
 # Личный проект «Sedona»
 
-* Студент: [Rinat]({{https://github.com/f1esh}}).
+* Студент: [Rinat](https://github.com/f1esh).
 * Наставник: `Без наставника`.
 
 ---
